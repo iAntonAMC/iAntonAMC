@@ -1,5 +1,10 @@
-### Hi there 👋
+<h3 align="center"> Hello, World! ✨ </h1>
+<p align="center">
+<a href="https://www.youtube.com/@iAntonAMC" target="_blank"><img src="https://user-images.githubusercontent.com/97558737/202385658-409b06df-8616-4950-9854-ff23fe50db0f.jpeg" height="250" width="100%" alt="Channel Link"></a>
+</p>
 
+<h3 align="center">Stats⚡</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAntonAMC)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **iAntonAMC/iAntonAMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![47d09aafd6](https://user-images.githubusercontent.com/97558737/202385658-409b06df-8616-4950-9854-ff23fe50db0f.jpeg)
