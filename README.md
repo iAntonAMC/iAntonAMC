@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">Stats⚡</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAntonAMC)](https://github.com/anuraghazra/github-readme-stats)
+[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAntonAMC)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **iAntonAMC/iAntonAMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
