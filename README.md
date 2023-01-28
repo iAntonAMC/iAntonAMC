@@ -1,4 +1,3 @@
-<h3 align="center"> Hello, World! ✨ </h1>
 <p align="center">
 <a href="https://www.youtube.com/@iAntonAMC" target="_blank"><img src="https://user-images.githubusercontent.com/97558737/202385658-409b06df-8616-4950-9854-ff23fe50db0f.jpeg" height="250" width="100%" alt="Channel Link"></a>
 </p>
