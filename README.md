@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">Stats⚡</h3>
-[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=iAntonAMC)](https://github.com/anuraghazra/github-readme-stats)
+[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=iantonamc)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">Languages⚡</h3>
 <p align="center">
