@@ -3,6 +3,7 @@
 </p>
 
 <h3 align="center">Stats⚡</h3>
+<div style="display:flex; align-items:center;">
 <picture align="center">
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=iAntonAMC&show_icons=true&theme=dark"
@@ -10,6 +11,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=iAntonAMC&show_icons=true" />
 </picture>
+</div>
 
 <h3 align="center">Languages⚡</h3>
 <p align="center">
