@@ -18,6 +18,3 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
  </p>
-
-
-![47d09aafd6](https://user-images.githubusercontent.com/97558737/202385658-409b06df-8616-4950-9854-ff23fe50db0f.jpeg)
