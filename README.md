@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.youtube.com/@iAntonAMC" target="_blank"><img src="https://user-images.githubusercontent.com/97558737/202385658-409b06df-8616-4950-9854-ff23fe50db0f.jpeg" height="250" width="100%" alt="Channel Link"></a>
+<a href="https://www.youtube.com/@iAntonAMC" target="_blank"><img src="https://user-images.githubusercontent.com/97558737/202385658-409b06df-8616-4950-9854-ff23fe50db0f.jpeg" height="200" width="100%" alt="Personal Channel Link"></a>
 </p>
 
 <h3 align="center">Stats⚡</h3>
@@ -20,3 +20,5 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
  </p>
+
+<iframe src="https://streamadblocker./e/KzQpk0ZQoPH09Ro/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>
