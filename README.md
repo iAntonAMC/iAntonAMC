@@ -21,4 +21,3 @@
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
  </p>
 
-<iframe src="https://streamadblocker./e/KzQpk0ZQoPH09Ro/" width="800" height="600" allowfullscreen allowtransparency allow="autoplay" scrolling="no" frameborder="0"></iframe>
