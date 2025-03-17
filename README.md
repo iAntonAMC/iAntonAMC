@@ -1,7 +1,7 @@
 <!-- Banner Superior -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h1 align="center">👋 ¡Hola! Soy iAntonAMC</h1>
+<h1 align="center">Hello There... 7u7 <br /> I'am iAntonAMC</h1>
 <h3 align="center">🚀 Desarrollador Fullstack | Especializado en Backend</h3>
 
 <p align="center">
