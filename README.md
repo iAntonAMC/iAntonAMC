@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 Sobre mí
-💡 **Desarrollador Fullstack** con experiencia en tecnologías modernas, especializado en **Backend y Arquitectura de Software**.  
+💡 **Software Engineer** con experiencia en tecnologías modernas, especializado en **Backend y Arquitectura de Software**.  
 💻 Me encanta crear **APIs escalables**, optimizar bases de datos y trabajar en proyectos que desafíen mis habilidades.  
 🎮 Apasionado por la **tecnología y los videojuegos**.  
 
