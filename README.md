@@ -97,8 +97,8 @@ Mobile app for prenatal tracking and health monitoring
 
 If you're building something interesting or need a backend engineer:
 
-📧 anton99_torres@hotmail.com  
-🌐 https://iantonamc.netlify.app  
+📧 anton.tf.dev@gmail.com  
+🌐 https://iantonamc.com  
 
 ---
 
