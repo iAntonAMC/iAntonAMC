@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 <h1 align="center">iAntonAMC©</h1>
-<h3 align="center">Software Engineer · Fullstack Focus · Systems Thinking</h3>
+<h3 align="center">Software Engineer · Python · Backend · Applied AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iantonamc/" target="_blank">
@@ -20,12 +20,14 @@
 
 ## 🧠 About Me
 
-I'm a **Software Engineer focused on Fullstack development and Systems design**.  
-I build software with a simple principle:
+I'm a **Software Engineer focused on backend systems, Python and Applied AI**.  
+I build APIs and software systems with an emphasis on clean architecture, reliability and maintainability.
+
+My current work focuses on backend engineering, databases, distributed systems and production-oriented AI applications.
 
 > **Clarity > Complexity**
 
-Currently in a phase of **intentional rebuilding** — refining my skills, designing better systems, and documenting the process.
+Currently deepening my expertise in backend architecture, system design and production-oriented AI systems.
 
 I enjoy:
 - Designing scalable APIs
