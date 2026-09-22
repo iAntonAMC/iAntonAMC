@@ -1,5 +1,5 @@
-<!-- Minimal Top Banner -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Minimal Top Banner 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 <h1 align="center">iAntonAMC©</h1>
 <h3 align="center">Software Engineer · Fullstack Focus · Systems Thinking</h3>
