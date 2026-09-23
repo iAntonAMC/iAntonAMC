@@ -43,14 +43,18 @@ I explore **minimalism, personal systems, and lifestyle design** — applying th
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=Python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  
 </p>
 
 <!--
@@ -78,11 +82,6 @@ Access Management System with QR scanning and facial recognition
 Online text editor with PDF generation and API services  
 → Focus: document processing, backend services  
 🔗 https://github.com/iAntonAMC/EditorUFD-template  
-
-**NeoCare**  
-Mobile app for prenatal tracking and health monitoring  
-→ Focus: mobile + backend integration, data tracking  
-🔗 https://github.com/iAntonAMC/NeoCare-template  
 
 ---
 
