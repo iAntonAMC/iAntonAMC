@@ -87,10 +87,12 @@ Online text editor with PDF generation and API services
 
 ## 🧩 Current Focus
 
-- Rebuilding my **engineering foundation**
-- Improving **system design thinking**
-- Creating **real-world scalable projects**
-- Documenting the journey (Day 0 → ∞)
+- Deepening my expertise in **Python & Backend Engineering**
+- Strengthening **System Design, Data Structures & Algorithms**
+- Building **production-oriented software systems**
+- Exploring **Applied AI, LLMs, RAG & intelligent workflows**
+- Improving **testing, CI/CD, Docker & cloud deployment**
+- Documenting **engineering decisions, trade-offs & lessons learned**
 
 ---
 
